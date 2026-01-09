@@ -1,10 +1,9 @@
-import React, { useRef } from "react";
-import html2canvas from "html2canvas";
-import jsPDF from "jspdf";
+import React, { useRef, useState } from "react";
 import type { Product } from "./ProductCard";
 
 export type BasketItem = Product & {
   checked: boolean;
+  quantity: number; // NEW: quantity field
 };
 
 type Props = {
@@ -13,6 +12,7 @@ type Props = {
   onRemove: (shop: string, id: string) => void;
   onToggle: (shop: string, id: string) => void;
   onClearChecked: (shop: string) => void;
+  onUpdateQuantity: (shop: string, id: string, quantity: number) => void; // NEW
 };
 
 const Basket: React.FC<Props> = ({
@@ -21,38 +21,18 @@ const Basket: React.FC<Props> = ({
   onRemove,
   onToggle,
   onClearChecked,
+  onUpdateQuantity,
 }) => {
   const basketRef = useRef<HTMLDivElement>(null);
+  const [modalImage, setModalImage] = useState<string | null>(null);
   const shops = Object.keys(basket);
 
   if (shops.length === 0) return null;
 
-  const exportImage = async () => {
-    if (!basketRef.current) return;
-    const canvas = await html2canvas(basketRef.current);
-    const link = document.createElement("a");
-    link.download = "pirkiniu-sarasas.png";
-    link.href = canvas.toDataURL("image/png");
-    link.click();
-  };
-
-  const exportPDF = async () => {
-    if (!basketRef.current) return;
-    const canvas = await html2canvas(basketRef.current);
-    const imgData = canvas.toDataURL("image/png");
-
-    const pdf = new jsPDF("p", "mm", "a4");
-    const pageWidth = pdf.internal.pageSize.getWidth();
-    const imgHeight = (canvas.height * pageWidth) / canvas.width;
-
-    pdf.addImage(imgData, "PNG", 0, 0, pageWidth, imgHeight);
-    pdf.save("pirkiniu-sarasas.pdf");
-  };
-
   const calcTotal = (items: BasketItem[]) =>
     items
       .filter(i => !i.checked)
-      .reduce((sum, i) => sum + (parseFloat(i.price ?? "0") || 0), 0)
+      .reduce((sum, i) => sum + (parseFloat(i.price ?? "0") || 0) * i.quantity, 0)
       .toFixed(2);
 
   return (
@@ -67,32 +47,6 @@ const Basket: React.FC<Props> = ({
         }}
       >
         <h2 style={{ fontSize: 18, margin: 0 }}>Pirkinių sąrašas</h2>
-        <div style={{ display: "flex", gap: 8 }}>
-          <button
-            onClick={exportImage}
-            style={{
-              padding: "6px 12px",
-              borderRadius: 6,
-              border: "1px solid #ccc",
-              background: "#f0f0f0",
-              cursor: "pointer",
-            }}
-          >
-            Išsaugoti PNG
-          </button>
-          <button
-            onClick={exportPDF}
-            style={{
-              padding: "6px 12px",
-              borderRadius: 6,
-              border: "1px solid #ccc",
-              background: "#f0f0f0",
-              cursor: "pointer",
-            }}
-          >
-            Išsaugoti PDF
-          </button>
-        </div>
       </div>
 
       <div ref={basketRef}>
@@ -116,14 +70,8 @@ const Basket: React.FC<Props> = ({
                 marginBottom: 8,
               }}
             >
-              <img
-                src={logos[shop]}
-                alt={shop}
-                style={{ height: 28, width: "auto" }}
-              />
-              <strong style={{ fontSize: 16, textTransform: "capitalize" }}>
-                {shop}
-              </strong>
+              <img src={logos[shop]} alt={shop} style={{ height: 28, width: "auto" }} />
+              <strong style={{ fontSize: 16, textTransform: "capitalize" }}>{shop}</strong>
             </div>
 
             {/* Items */}
@@ -140,6 +88,9 @@ const Basket: React.FC<Props> = ({
                     background: item.checked ? "#f5f5f5" : "#fafafa",
                     opacity: item.checked ? 0.5 : 1,
                     textDecoration: item.checked ? "line-through" : "none",
+                    fontSize: 14,
+                    flexWrap: "nowrap",
+                    overflow: "hidden",
                   }}
                 >
                   <input
@@ -152,20 +103,73 @@ const Basket: React.FC<Props> = ({
                   <img
                     src={item.image_url ?? ""}
                     alt={item.title ?? ""}
+                    onClick={() => setModalImage(item.image_url ?? "")}
                     style={{
-                      height: 40,
-                      width: 40,
+                      height: 50,
+                      width: 50,
                       objectFit: "contain",
                       borderRadius: 6,
                       background: "#fff",
                       border: "1px solid #ddd",
+                      cursor: "pointer",
+                      flexShrink: 0,
                     }}
                   />
 
-                  <span style={{ flex: 1, fontSize: 14 }}>{item.title}</span>
+                  {/* Title with tooltip */}
+                  <span
+                    title={item.title ?? ""}
+                    style={{
+                      flex: 1,
+                      minWidth: 0,
+                      whiteSpace: "nowrap",
+                      overflow: "hidden",
+                      textOverflow: "ellipsis",
+                    }}
+                  >
+                    {item.title}
+                  </span>
 
-                  <strong style={{ minWidth: 50, textAlign: "right" }}>
-                    {item.price} €
+                  {/* Quantity controls */}
+                  <div
+                    style={{
+                      display: "flex",
+                      alignItems: "center",
+                      gap: 4,
+                      flexShrink: 0,
+                      minWidth: 80,
+                      justifyContent: "center",
+                    }}
+                  >
+                    <button
+                      onClick={() => onUpdateQuantity(shop, item.id, Math.max(1, item.quantity - 1))}
+                      style={{
+                        border: "1px solid #ccc",
+                        borderRadius: 4,
+                        padding: "2px 6px",
+                        cursor: "pointer",
+                        background: "#f0f0f0",
+                      }}
+                    >
+                      -
+                    </button>
+                    <span>{item.quantity}</span>
+                    <button
+                      onClick={() => onUpdateQuantity(shop, item.id, item.quantity + 1)}
+                      style={{
+                        border: "1px solid #ccc",
+                        borderRadius: 4,
+                        padding: "2px 6px",
+                        cursor: "pointer",
+                        background: "#f0f0f0",
+                      }}
+                    >
+                      +
+                    </button>
+                  </div>
+
+                  <strong style={{ minWidth: 50, textAlign: "right", flexShrink: 0 }}>
+                    {(parseFloat(item.price ?? "0") * item.quantity).toFixed(2)} €
                   </strong>
 
                   <button
@@ -173,12 +177,13 @@ const Basket: React.FC<Props> = ({
                     style={{
                       border: "none",
                       background: "transparent",
-                      color: "#e60a14",
+                      color: "#555",
                       fontSize: 16,
                       cursor: "pointer",
+                      flexShrink: 0,
                     }}
                   >
-                    ❌
+                    X
                   </button>
                 </div>
               ))}
@@ -193,9 +198,7 @@ const Basket: React.FC<Props> = ({
                 alignItems: "center",
               }}
             >
-              <strong style={{ fontSize: 14 }}>
-                Iš viso: {calcTotal(basket[shop])} €
-              </strong>
+              <strong style={{ fontSize: 14 }}>Iš viso: {calcTotal(basket[shop])} €</strong>
 
               <button
                 onClick={() => onClearChecked(shop)}
@@ -214,6 +217,37 @@ const Basket: React.FC<Props> = ({
           </div>
         ))}
       </div>
+
+      {/* Image modal */}
+      {modalImage && (
+        <div
+          onClick={() => setModalImage(null)}
+          style={{
+            position: "fixed",
+            top: 0,
+            left: 0,
+            width: "100%",
+            height: "100%",
+            background: "rgba(0,0,0,0.7)",
+            display: "flex",
+            justifyContent: "center",
+            alignItems: "center",
+            zIndex: 9999,
+          }}
+        >
+          <img
+            src={modalImage}
+            alt="preview"
+            style={{
+              maxWidth: "90%",
+              maxHeight: "90%",
+              borderRadius: 12,
+              boxShadow: "0 0 12px rgba(0,0,0,0.5)",
+              background: "#fff",
+            }}
+          />
+        </div>
+      )}
     </div>
   );
 };
