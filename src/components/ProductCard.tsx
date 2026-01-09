@@ -35,7 +35,6 @@ const ProductCard: React.FC<Props> = ({ product, logos, onAddToBasket }) => {
         cursor: "pointer",
         transition: "transform 0.1s",
       }}
-      onClick={() => onAddToBasket(product)}
     >
       {/* Shop Logo */}
       <img
