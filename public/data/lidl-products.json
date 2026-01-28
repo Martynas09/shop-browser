@@ -1,177 +1,275 @@
 [
   {
-    "image_url": "https://imgproxy-retcat.assets.schwarz/_vZLWFaujRlJKESmwqchI6mOjadLhLsi-GUIhDVYPIc/sm:1/w:427/h:320/cz/M6Ly9wcm9kLWNhd/GFsb2ctbWVkaWEvaW50L0FBREU1NUIyQTMxRUFCNTRDNUNCNzYyNk/I2OUNFNTE3OEEwRTkwMTdGRkU3REJFQTU1NTU2RTA5MkY4NjdGNjAucG5n.png",
-    "title": "Pienas UAT XXL, 3,2 %",
-    "price": "0.99",
-    "price_2": "1,5 l / 1 l = 0,66 €",
-    "valid_date": "Nuo 01 06"
+    "image_url": "https://imgproxy-retcat.assets.schwarz/AedCNQf8Wd_GbQ4uCrLZfxnpeK7FIMsmSm_mShQ9Bzg/sm:1/w:427/h:320/cz/M6Ly9wcm9kLWNhd/GFsb2ctbWVkaWEvaW50LzMwNDMwMkMwMUVFOEIxMzM0QkFCQkYxMD/IwOUFGQUNBMTVGNjc5QzY1QzE2QTM3Mjk3MjJENzVDMzM1Qjc4MkQucG5n.png",
+    "title": "Šviežia viščiukų broilerių vidinė filė",
+    "price": "2.99",
+    "price_2": "400 g | 1 kg = 7,48 €",
+    "valid_date": "01 26 - 01 28"
   },
   {
-    "image_url": "https://imgproxy-retcat.assets.schwarz/HcYdXOF6oKM6E6LV86MdgX_qa5Y5Rx2VIofcJqZ2FpQ/sm:1/w:427/h:320/cz/M6Ly9wcm9kLWNhd/GFsb2ctbWVkaWEvbHQvMS9GN0REOEUyNDA2MUI5OEFEN0JENkVDODc/xNTI3MERBNDI4MzBFRjhDOEUxNUEyNThDQzY3NEUzMTdFREJFODAxLnBuZw.png",
-    "title": "Naminė pusriebė varškė, 9 %",
+    "image_url": "https://imgproxy-retcat.assets.schwarz/_PC8OTZudqHu_k9OICKHECg6WF6EuMSDeYlS3h70kaw/sm:1/w:427/h:320/cz/M6Ly9wcm9kLWNhd/GFsb2ctbWVkaWEvaW50Lzk1ODI1M0ZFNEVBMDY0OTcxNzFEREZDQT/FEN0YyODdCQTA1MENEQTIyRDc5MjIyODk4MkQ0QkRGRTBGRTNFNUUucG5n.png",
+    "title": "Malta kava",
+    "price": "6.89",
+    "price_2": "500 g | 1 kg = 13,78 €",
+    "valid_date": "01 26 - 02 01"
+  },
+  {
+    "image_url": "https://imgproxy-retcat.assets.schwarz/pPJTzgPfLj4ypLUbpbaKiUPkb3s8x9eTKV-Rczq--lI/sm:1/w:427/h:320/cz/M6Ly9wcm9kLWNhd/GFsb2ctbWVkaWEvbHQvMS8zNDJERjU5RDA1MDY1QkRCRjcwN0ExNjA/wNzFFQkJBRDRDRUEwMkM2NUYxOEYyODE2OUJBNzlGMjIwOTAzQzY0LnBuZw.png",
+    "title": "Pusriebė varškė",
     "price": "3.99",
     "price_2": "1 kg",
-    "valid_date": "Nuo 01 05"
+    "valid_date": "01 26 - 02 01"
   },
   {
-    "image_url": "https://imgproxy-retcat.assets.schwarz/aH0YEbp4-URVor_Durch2kaP1GfiRLV56nHsK69jPZU/sm:1/w:427/h:320/cz/M6Ly9wcm9kLWNhd/GFsb2ctbWVkaWEvbHQvMS8wMDMyNzY2N0I2NUVFNzA5RkE5NDJDMDZ/EMDg2MUQwN0Q2QjgxNEMyOTA3Q0U1QzMyMDY4MjNDRTBFNTZGNTU2LnBuZw.png",
-    "title": "Kiaušiniai",
-    "price": "1.79",
-    "price_2": "10 vnt. / 1 vnt. = 0,18 €",
-    "valid_date": "Nuo 01 05"
-  },
-  {
-    "image_url": "https://imgproxy-retcat.assets.schwarz/9_0pjaDz9PI0eWzJkY43fRC9dSuLl1dND5jcr_eRbPA/sm:1/w:427/h:320/cz/M6Ly9wcm9kLWNhd/GFsb2ctbWVkaWEvaW50LzE0RjM3QjJBQjNFNTgxRDcwNTg3MDY1MD/kzODY2OTM5MjhFMDRDQ0E0QzMwM0Q5NjYyQUZDQzAxREYzMjI1QzMucG5n.png",
-    "title": "Baltieji pievagrybiai",
-    "price": "0.99",
-    "price_2": "400 g | 1 kg = 2,48 €",
-    "valid_date": "01 08 - 01 11"
-  },
-  {
-    "image_url": "https://imgproxy-retcat.assets.schwarz/ALw7D9m0p5IbjhYYUNdrYiWJNl9Okj1YKsdLBZJO3JM/sm:1/w:427/h:320/cz/M6Ly9wcm9kLWNhd/GFsb2ctbWVkaWEvaW50Lzc4RDc0NjFBRTg4M0Y5ODMxNzQ5MTVENE/MzMzkxQThEMUQ5MTk2MDQyRkFDNUY3QjJGQzhEMDQ0OUFGNTJGRjcucG5n.png",
-    "title": "Ličiai",
-    "price": "5.99",
-    "price_2": "1 kg",
-    "valid_date": "01 08 - 01 11"
-  },
-  {
-    "image_url": "https://imgproxy-retcat.assets.schwarz/J7pFBLvY8IyVfAXkBydDdZxJtaVJsMU2cQ_YqHksllk/sm:1/w:427/h:320/cz/M6Ly9wcm9kLWNhd/GFsb2ctbWVkaWEvaW50LzVGRTBFN0ZBOUNBNkIwQjdCMTg3NjQyN0/FCN0VBNjcxRTIxQzJENkVEQzEwNjc2M0I5OEEyNkUxMTQyNjcyMUMucG5n.png",
+    "image_url": "https://imgproxy-retcat.assets.schwarz/UgUkrgizmC6Y52vqpr5J6-nKLueho41zWICXe4E1iP4/sm:1/w:427/h:320/cz/M6Ly9wcm9kLWNhd/GFsb2ctbWVkaWEvaW50L0E1QjdCQjUxOEJBMkI4Mzc2RDc2QTBFOE/E1RTdBMEUzRUUxNTk0NUUyNTIxNzI0RDA3RDdBMDMyQzg5Q0U2NDQucG5n.png",
     "title": "Apelsinai",
-    "price": "0.99",
-    "price_2": "1 kg",
-    "valid_date": "01 08 - 01 11"
-  },
-  {
-    "image_url": "https://imgproxy-retcat.assets.schwarz/ekFXZbOJLF9qYJ2Q2DJQkZirBENpAZ4s7fB9fdoMal4/sm:1/w:427/h:320/cz/M6Ly9wcm9kLWNhd/GFsb2ctbWVkaWEvaW50L0IxMEFCNzkwNTcyREVDNzZCRkI3NDI5QT/M2RTM4ODk2ODQyMkU4REM4Qjg3NDk4RTAwNjQ2Q0Y3NjQ1MEU5RTUucG5n.png",
-    "title": "Brokoliai",
     "price": "1.19",
-    "price_2": "500 g | 1 kg = 2,38 €",
-    "valid_date": "01 08 - 01 11"
+    "price_2": "1 kg",
+    "valid_date": "01 26 - 01 28"
   },
   {
-    "image_url": "https://imgproxy-retcat.assets.schwarz/DNXmto_caeAZithLQ_vrXBQGQF2LiqJCeTX0SJ-f-QE/sm:1/w:427/h:320/cz/M6Ly9wcm9kLWNhd/GFsb2ctbWVkaWEvbHQvMS82MTUzNkYxNkQ5RDdGNTVFMzYyMUUxMTk/1ODUwNDdDNDI1M0M3RTFFRDAwRjI4RUU0QkUxMDBGQjZDN0Q2NkZBLnBuZw.png",
-    "title": "Lietuviški fasuoti obuoliai",
+    "image_url": "https://imgproxy-retcat.assets.schwarz/0Axeyb5NyjCA10NXgw0nMJQoVn8FaB2qHizlE0wNTLo/sm:1/w:427/h:320/cz/M6Ly9wcm9kLWNhd/GFsb2ctbWVkaWEvbHQvMS9GMTE2MUJGREZBRjkzN0E0OTNEQTJFQ0R/CMzE5MTM5RjU3OTk3MTQ2MzIxNjA4MzkwMTY0NzVDNzkzRjJBNTRGLnBuZw.png",
+    "title": "Lietuviški geltonieji svogūnai",
+    "price": "0.33",
+    "price_2": "1 kg",
+    "valid_date": "01 26 - 01 28"
+  },
+  {
+    "image_url": "https://imgproxy-retcat.assets.schwarz/hHbAFBomREIYyiKPEaop5GHMJtDu1TyEUl82wGG6CNg/sm:1/w:427/h:320/cz/M6Ly9wcm9kLWNhd/GFsb2ctbWVkaWEvbHQvMS9DNTgyQzdEMUZCMDY0OTg4OTEwOTM0OTl/EQTM3Q0FGMDA2NjlDN0Y2MENEODhBNzcyNUMzODgxMTFENTFBN0EzLnBuZw.png",
+    "title": "Greipfrutai",
     "price": "1.49",
     "price_2": "1 kg",
-    "valid_date": "01 08 - 01 11"
+    "valid_date": "01 26 - 01 28"
   },
   {
-    "image_url": "https://imgproxy-retcat.assets.schwarz/hUYwvuywWXWsb5_e28IvVKhzoYIuG0VD72tnj4Xmqis/sm:1/w:427/h:320/cz/M6Ly9wcm9kLWNhd/GFsb2ctbWVkaWEvbHQvMS8xRTE2QjczMjkxQkJFOTJDNDc1QjQwMzk/4RkM2NjBDMEMzRDAxRUUzMUY0NzE3RTdERTExMkFGMUNCQzc2QURFLnBuZw.png",
-    "title": "Lietuviškas ilgavaisis agurkas",
-    "price": "0.99",
+    "image_url": "https://imgproxy-retcat.assets.schwarz/I65QiwZ0DucIg14MmkKX_qG2EH3QCGPcMWbXoq2c3YM/sm:1/w:427/h:320/cz/M6Ly9wcm9kLWNhd/GFsb2ctbWVkaWEvbHQvMS9CNkU1NzJCNEQ0QzlFQjdCMjIwOUU0MjA/4QzE3RjA5Rjg0MTM0OTE0MzQ2QkJCNjM4NEM4RTVEQjY0RTZGRDZGLnBuZw.png",
+    "title": "Kriaušės",
+    "price": "1.49",
+    "price_2": "1 kg",
+    "valid_date": "01 26 - 01 28"
+  },
+  {
+    "image_url": "https://imgproxy-retcat.assets.schwarz/yFIqIzNAoIvFrMpDvdbb6C-16wJsFmTAZaqCEJFlqCA/sm:1/w:427/h:320/cz/M6Ly9wcm9kLWNhd/GFsb2ctbWVkaWEvbHQvMS81RDU5MUY4MjVEQ0JFM0Y4RkE3REM0MkQ/wNDhBOUEyQUVENDdFQkI1NTNDQkZGRDU0QTNBNDY2NzgxNDM5RjM4LnBuZw.png",
+    "title": "Tamsios besėklės vynuogės",
+    "price": "1.99",
+    "price_2": "500 g | 1 kg = 4,98 €",
+    "valid_date": "01 26 - 01 28"
+  },
+  {
+    "image_url": "https://imgproxy-retcat.assets.schwarz/4C54lNru0WePtqhWxB9tMB0bPdBuFsJzBnyi734qYH0/sm:1/w:427/h:320/cz/M6Ly9wcm9kLWNhd/GFsb2ctbWVkaWEvbHQvMS9DRUNEMjBDMTIzRUYxQTAwRDRCQkNGNjN/GODAyQTM1Mjg3MUQwRTczRDg1ODY5MUI2M0I4OUFCRDIwNzY2N0MyLnBuZw.png",
+    "title": "Saldžiosios bulvės",
+    "price": "1.49",
+    "price_2": "1 kg",
+    "valid_date": "01 26 - 01 28"
+  },
+  {
+    "image_url": "https://imgproxy-retcat.assets.schwarz/SigvXgVbXyMfxTInozKjjCtcvMFnFx-vvZOcon8nhKU/sm:1/w:427/h:320/cz/M6Ly9wcm9kLWNhd/GFsb2ctbWVkaWEvbHQvMS81REQzQUI2QUFCMEEwNTU1QTAwQTFGMjY/zRUVCREZFODU5QTc1QTU1OTVDOTFEMEU3NEYyRTc2MDIzRUI5NEE1LnBuZw.png",
+    "title": "Lietuviški raudonieji burokėliai",
+    "price": "0.33",
+    "price_2": "1 kg",
+    "valid_date": "01 29 - 02 01"
+  },
+  {
+    "image_url": "https://imgproxy-retcat.assets.schwarz/QjMhYDIa268ygUkNh7fWl8x1kt7dMt-I68iVaPQTLbg/sm:1/w:427/h:320/cz/M6Ly9wcm9kLWNhd/GFsb2ctbWVkaWEvaW50L0EwNjk5MzhENjU1QzA0REY3NUQ0RTdFOE/Y1Qjk3MzQ5RURDREQ1OEM2QkJDRUI2NzM1Nzc5NEY5RjdDNTkyNkEucG5n.png",
+    "title": "Pomidorai su šakelėmis",
+    "price": "2.19",
+    "price_2": "1 kg",
+    "valid_date": "01 29 - 02 01"
+  },
+  {
+    "image_url": "https://imgproxy-retcat.assets.schwarz/nMnA2VTShjR-uhP_fyLbCYByzl9N2UA_0C74iyyDWuU/sm:1/w:427/h:320/cz/M6Ly9wcm9kLWNhd/GFsb2ctbWVkaWEvaW50LzU5NEY1MTA1QkM5ODE5QjE1MjMyNDNDOT/lGN0U3OTM0NkQwNzNEQTc0RTQyNTVCMDJCQUY4QThERDNENkQ3QzcucG5n.png",
+    "title": "Kiviai",
+    "price": "0.39",
     "price_2": "1 vnt.",
-    "valid_date": "01 08 - 01 11"
+    "valid_date": "01 29 - 02 01"
   },
   {
-    "image_url": "https://imgproxy-retcat.assets.schwarz/xfD4255dvD7w6vcwZSBXowZVgvlNwdLV1bhGv7tVyUo/sm:1/w:427/h:320/cz/M6Ly9wcm9kLWNhd/GFsb2ctbWVkaWEvaW50LzU2RjdCNkJGMzExMTk2RkRGMkE1NzQxQT/dBQzQ4NUZCQjBCRkJCNTE5OENBQzEwQkU4MUQ1MTQxNUYxRTY2NDMucG5n.png",
-    "title": "Kruasaninės spurgytės",
-    "price": "0.85",
-    "price_2": "83 g | 1 kg = 10,24 €",
-    "valid_date": "01 05 - 01 11"
+    "image_url": "https://imgproxy-retcat.assets.schwarz/2CrBEKv64HIKOQKnESxb4fbYxGGgg4X_4gFMaBYpfOs/sm:1/w:427/h:320/cz/M6Ly9wcm9kLWNhd/GFsb2ctbWVkaWEvbHQvMS8zNkQwNjhCRUFFMUI1NjE4Mzk1QjkzRkR/DNUNENUE4MkNFMTZGMzBDRURBQUMwNzVEMzlEQThEMDc2NzI3MUUyLnBuZw.png",
+    "title": "Lietuviški virti raudonieji burokėliai",
+    "price": "0.59",
+    "price_2": "500 g | 1 kg = 1,18 €",
+    "valid_date": "01 29 - 02 01"
   },
   {
-    "image_url": "https://imgproxy-retcat.assets.schwarz/DLG7CdRvodC-g_3GUv5NJIN-wghxpfakDPs2Nm3ueSw/sm:1/w:427/h:320/cz/M6Ly9wcm9kLWNhd/GFsb2ctbWVkaWEvbHQvMS8wQjgxQTA1ODU5QjgyNUZDNTYzQjQ0OEF/DMkEyOTlDRDg0MjU0OUY0QzZCNjFDOTM3Q0NGRTI0MkVENjY5RUIzLnBuZw.png",
-    "title": "Raikytas didysis pieniškas batonas",
-    "price": "0.69",
-    "price_2": "500 g | 1 kg = 1,38 €",
-    "valid_date": "01 05 - 01 11"
+    "image_url": "https://imgproxy-retcat.assets.schwarz/2xYTRktpe-c8c77DYgsWIZQWxUQpjvKAdUYLxQCSWEY/sm:1/w:427/h:320/cz/M6Ly9wcm9kLWNhd/GFsb2ctbWVkaWEvbHQvMS8xM0EwOTA4Q0Y1MjkwN0IzNUMzQzA0QUR/ENDVFOUVDMjFCQUZGQUZGQkI4NkIzOEYyOEI1QzA0RjkwMzFFN0U3LnBuZw.png",
+    "title": "Raudonieji obuoliai",
+    "price": "0.79",
+    "price_2": "1 kg",
+    "valid_date": "01 29 - 02 01"
   },
   {
-    "image_url": "https://imgproxy-retcat.assets.schwarz/M-NsmG3MO3ldS7urh6e3928jSc5KeQc7yWFzeuyvbOc/sm:1/w:427/h:320/cz/M6Ly9wcm9kLWNhd/GFsb2ctbWVkaWEvbHQvMS85RERCNTU4NDU2REVEMDUxQkU3REE0MjF/BMDU4RDg0QzQ5Q0M4MTdGODU2RjM0OEM3MzY2MzhDNDE5QTE0MkU5LnBuZw.png",
-    "title": "„Močiutės“ juoda duona",
-    "price": "1.59",
-    "price_2": "450 g | 1 kg = 3,18 €",
-    "valid_date": "01 05 - 01 11"
+    "image_url": "https://imgproxy-retcat.assets.schwarz/sWIxyMMeeIJ1zHS8sJE6n2078ZOiUVjhkmAGUbZIpm4/sm:1/w:427/h:320/cz/M6Ly9wcm9kLWNhd/GFsb2ctbWVkaWEvaW50L0JBQzJFQTE2QzJCMTczN0ExMDc3N0E0Rj/kyNzAxRTQ2MThGOUMzMjU2Q0VCMDNFQTlBODYyQ0UwQkMzNjEyMDgucG5n.png",
+    "title": "Geltonieji melionai",
+    "price": "1.39",
+    "price_2": "1 kg",
+    "valid_date": "01 29 - 02 01"
   },
   {
-    "image_url": "https://imgproxy-retcat.assets.schwarz/63hYAl3FAoCOHnknnNMY0u8oZZBsrq137mfUceozIWw/sm:1/w:427/h:320/cz/M6Ly9wcm9kLWNhd/GFsb2ctbWVkaWEvbHQvMS8zNjZCNzYxNzBEMUM4NzM0NDVDRERCNUI/wMkY2RDMyNTIyMUVBRkY5MzY3M0U2RkJERTk4NDZFQkI4RUExODE2LnBuZw.png",
-    "title": "Duona su saulėgrąžomis",
+    "image_url": "https://imgproxy-retcat.assets.schwarz/d-1PE5NCEIvVBp81OY0gemm_XNqFcFZ7KzdbyEVoroQ/sm:1/w:427/h:320/cz/M6Ly9wcm9kLWNhd/GFsb2ctbWVkaWEvaW50Lzg5NDczQjYzODJCNUU2QkRGNDgxRUZBOU/I0QUI4REJBNDJEM0IwQkVDOTEyRjZBRDA3MTc2RTk5NDg5NUMyOTYucG5n.png",
+    "title": "Paukštienos dešrainis su BBQ padažu",
     "price": "1.19",
-    "price_2": "500 g | 1 kg = 2,98 €",
-    "valid_date": "01 08 - 01 11"
+    "price_2": "130 g | 1 kg = 9,15 €",
+    "valid_date": "01 26 - 01 28"
   },
   {
-    "image_url": "https://imgproxy-retcat.assets.schwarz/T8PLzV9_gC8vUQ8ulwkSm71VOmrFmKhCNCT9CXHA7Cg/sm:1/w:427/h:320/cz/M6Ly9wcm9kLWNhd/GFsb2ctbWVkaWEvbHQvMS9CMzlGMjM1NDg0QjlGMEYxNEVFNEJDMkM/5MDc4MEEwNDFENkMyNzQ1ODE0RkYyRkNGMDQxRjM3NzAyMDYyQzVBLnBuZw.png",
-    "title": "Kruasanas su šokoladiniu įdaru",
-    "price": "0.45",
-    "price_2": "80 g | 1 kg = 5,63 €",
-    "valid_date": "01 08 - 01 11"
+    "image_url": "https://imgproxy-retcat.assets.schwarz/siYRFb9yTYhH7stTZv3FRoJkSULM9pDhKtomCuhztnM/sm:1/w:427/h:320/cz/M6Ly9wcm9kLWNhd/GFsb2ctbWVkaWEvaW50LzFDREU3Qzc3MDRFNTJEOUJGNDNBN0ZERD/JCRTFFNzE4NzI0NkYxREVFMzA1QzNDQUJBQjRCQjhDOUU2ODVCNjMucG5n.png",
+    "title": "Kruasanas su pistacijų įdaru",
+    "price": "0.69",
+    "price_2": "75 g | 1 kg = 9,20 €",
+    "valid_date": "01 26 - 01 28"
   },
   {
-    "image_url": "https://imgproxy-retcat.assets.schwarz/t8ELeoU_iwo0SAiaNsZWXziUqwYJG_taSv2oMCwv9Nw/sm:1/w:427/h:320/cz/M6Ly9wcm9kLWNhd/GFsb2ctbWVkaWEvbHQvMS9FOENCMjAzQzRFNjc4RDA4RUI2QzVFM0I/4REY3NUMzRTYxN0Y5NTU2N0U5RTgxNTc3OTUxRjJEMTRGN0QyNjA4LnBuZw.png",
-    "title": "Mini sviestinis kruasanas",
-    "price": "1.12",
-    "price_2": "8 x 25 g | 1 kg = 5,70 €",
-    "valid_date": "01 08 - 01 11"
+    "image_url": "https://imgproxy-retcat.assets.schwarz/vI4Xss7pVTTwpJrlMF_gEqsgUSUu7pYjje6meSutlLk/sm:1/w:427/h:320/cz/M6Ly9wcm9kLWNhd/GFsb2ctbWVkaWEvaW50LzREQzFBNjA1NDlDNEIwMTBCRjc4QUQ3RU/IxQjQ3RjYzQTlCN0ZCRTcyNDkzRkJCOTM1RTkzMjJCNEY4NTIwMDYucG5n.png",
+    "title": "Bandelė „Fitness“ su sėklomis",
+    "price": "1.00",
+    "price_2": "5 x 80 g | 1 kg = 2,50 €",
+    "valid_date": "01 26 - 01 28"
   },
   {
-    "image_url": "https://imgproxy-retcat.assets.schwarz/0LTHQwQS1hPqcdgNRvbI5TniawHiaKt30KRLCzXp5mA/sm:1/w:427/h:320/cz/M6Ly9wcm9kLWNhd/GFsb2ctbWVkaWEvbHQvMS83RTkwMTVEMUQ4OEZCNTEyQTFBODYyMkE/3MkIzQjg0QTYzODJBMEY4MEM1MjlCMTNCOEEyNTdDNDQ5MEZEMjNBLnBuZw.png",
-    "title": "Kaizerio bandelė",
+    "image_url": "https://imgproxy-retcat.assets.schwarz/jbAqc__JOWvfeE5LWbUPbKhadRFnim_LDZ5CgfA6HFo/sm:1/w:427/h:320/cz/M6Ly9wcm9kLWNhd/GFsb2ctbWVkaWEvbHQvMS83OEU1NzZFMjYwNkUxRTk5RTdBOUMwNTc/1RDRCQjA0RjM3QUZCODk0MEE0RkE0RDZFRDMwQ0ZFRjg0MDEyQzM2LnBuZw.png",
+    "title": "Bandelė su obuoliais ir cinamonu",
+    "price": "1.17",
+    "price_2": "4 x 50 g | 1 kg = 5,85 €",
+    "valid_date": "01 26 - 01 28"
+  },
+  {
+    "image_url": "https://imgproxy-retcat.assets.schwarz/kTfWbotJOdiV5EhegB-wd1gPpcFDOcoEd2VBw4KVaQM/sm:1/w:427/h:320/cz/M6Ly9wcm9kLWNhd/GFsb2ctbWVkaWEvaW50LzkxMTI0NDk0MjU0QzlCNUM1Q0ZDNjk1QU/ZDQUY5OUY3MEQ1MTRFNDM5QUM2ODYwREU3RTJCQUQ0MTQ3QTZBNDkucG5n.png",
+    "title": "Sukutis su šokolado gabaliukais",
+    "price": "0.69",
+    "price_2": "90 g | 1 kg = 7,67 €",
+    "valid_date": "01 26 - 02 01"
+  },
+  {
+    "image_url": "https://imgproxy-retcat.assets.schwarz/e6uKp_uqnqIykAi1iFWee2MMCVCZuW214YmhOsieUqI/sm:1/w:427/h:320/cz/M6Ly9wcm9kLWNhd/GFsb2ctbWVkaWEvbHQvMS9DNkM0MkEyMERGNDgyNTIyREM0OEVDNzA/yREVENjA2REVBOUYyODUzODE0OTA2MjcwOEI0NjVERjJBMTY2MDhCLnBuZw.png",
+    "title": "Batonas su kefyru ir kalciu",
+    "price": "0.79",
+    "price_2": "350 g | 1 kg = 2,26 €",
+    "valid_date": "01 26 - 02 01"
+  },
+  {
+    "image_url": "https://imgproxy-retcat.assets.schwarz/FlxM6TMRkO8dvRF1J9tvaLYIRivCr6yZ1yNlDzhQmH4/sm:1/w:427/h:320/cz/M6Ly9wcm9kLWNhd/GFsb2ctbWVkaWEvaW50LzZBMzA1NjE5RjRBQzM1NjMwRDYzNUM3NE/NGQzExMzA3RTBBQjhEMDI1M0M2ODU2OThFMDBDRDJFQTFENzNEN0IucG5n.png",
+    "title": "Juoda duona su saulėgrąžomis",
+    "price": "1.19",
+    "price_2": "280 g | 1 kg = 4,25 €",
+    "valid_date": "01 26 - 02 01"
+  },
+  {
+    "image_url": "https://imgproxy-retcat.assets.schwarz/vgfn_69eRruqhQgl5f9Q4Gn9ZAHXBj7aKqsah-FYwck/sm:1/w:427/h:320/cz/M6Ly9wcm9kLWNhd/GFsb2ctbWVkaWEvaW50LzM0ODdDODEyMzgyNDU5NDIxRTEwREI3Qz/VGODg4OTE1REU2RDJGMkMyQjZCNjNFRjNFQTM4OUE5M0Y4QTZEMTAucG5n.png",
+    "title": "Mielinė bandelė su varške",
+    "price": "1.77",
+    "price_2": "4 x 100 g | 1 kg = 4,43 €",
+    "valid_date": "01 29 - 02 01"
+  },
+  {
+    "image_url": "https://imgproxy-retcat.assets.schwarz/_fra841-03FP9GRt6JbcCACIGYT0LlvJ-Bg3DPy_vKA/sm:1/w:427/h:320/cz/M6Ly9wcm9kLWNhd/GFsb2ctbWVkaWEvbHQvMS82Njk2QUJDMzVGQjY2MDkyQ0Y2MDIyMDM/5NUY2ODRCNTVDMjU0MDc1MENDMTNBQzU1QUM4REM2Q0U1OUY5NkEwLnBuZw.png",
+    "title": "Spurga su cukrumi",
+    "price": "0.70",
+    "price_2": "3 x 47 g | 1 kg = 4,96 €",
+    "valid_date": "01 29 - 02 01"
+  },
+  {
+    "image_url": "https://imgproxy-retcat.assets.schwarz/ljRFXdf7EzNi1APnZ5ujDlAqXY49gKyNJzkCWBHZOwY/sm:1/w:427/h:320/cz/M6Ly9wcm9kLWNhd/GFsb2ctbWVkaWEvbHQvMS9CRDdBNDUwMjA1OEFBMUVBOENGNkM2NDU/yMzUwMTA3RUMxQjE4RkY3MURBQzFBRDA4N0VFMjNEMzkyQTIwMUJCLnBuZw.png",
+    "title": "Šviesi forminė duona su saulėgrąžomis",
+    "price": "1.19",
+    "price_2": "500 g | 1 kg = 2,38 €",
+    "valid_date": "01 29 - 02 01"
+  },
+  {
+    "image_url": "https://imgproxy-retcat.assets.schwarz/lw9P-ZutfW9LPInjFNMBPy_H5NAzRW3WYhnjEkMeiy8/sm:1/w:427/h:320/cz/M6Ly9wcm9kLWNhd/GFsb2ctbWVkaWEvbHQvMS83N0Y5QjU2N0ZEQTFENTg0MTNFMzY5QUF/DRkE1M0Q5NTcwNEU5QUYyNTNCNDRCMTYwRDFDREYzMDQ3MzBGREFCLnBuZw.png",
+    "title": "Spurga su šokoladiniu įdaru",
     "price": "0.55",
-    "price_2": "5 x 55 g | 1 kg = 2,00 €",
-    "valid_date": "01 08 - 01 11"
+    "price_2": "65 g | 1 kg = 8,46 €",
+    "valid_date": "01 29 - 02 01"
   },
   {
-    "image_url": "https://imgproxy-retcat.assets.schwarz/dtl1-jlgAYDP7dR_93WKyh45pRNAeA4zQY9lmOQb59I/sm:1/w:427/h:320/cz/M6Ly9wcm9kLWNhd/GFsb2ctbWVkaWEvbHQvMS8wM0VEOUI4OEE0RDA4OEY4OENBRjNCNjA/3N0FFNUVBQkIyMjY0NEVFRjNDRUJFQTUxOTkyRTVEMEVGRDQ5RDg5LnBuZw.png",
-    "title": "Mielinė bandelė su aguonomis",
-    "price": "2.35",
-    "price_2": "5 x 100 g | 1 kg = 4,70 €",
-    "valid_date": "01 08 - 01 11"
+    "image_url": "https://imgproxy-retcat.assets.schwarz/pgEUlpfSGa13kU0-1KCXlFe_mxLdMnKfbcq1HwsPLv4/sm:1/w:427/h:320/cz/M6Ly9wcm9kLWNhd/GFsb2ctbWVkaWEvbHQvMS9GN0RDQzFGNUUzODhBMTdEQUFFODUzNzd/DRTgwNEVDNEMzRDhCNzJDM0I0QzUxNTA1NzZEOTY5OTE4M0ZGNkZDLnBuZw.png",
+    "title": "Šviežia malta kiaulienos mentė",
+    "price": "1.69",
+    "price_2": "450 g | 1 kg = 3,76 €",
+    "valid_date": "01 26 - 01 28"
   },
   {
-    "image_url": "https://imgproxy-retcat.assets.schwarz/1GFoU4BtEe8t1nUtOpyKiZFTA1SahgHXtokqG8RR07U/sm:1/w:427/h:320/cz/M6Ly9wcm9kLWNhd/GFsb2ctbWVkaWEvaW50L0QwMThEOEZDRjM2MzE2OTNCOUUzRTM4Nk/I5MTBGRkM4QTQxREY3QTFDREJEQUVCODc3NjIxQkU0MTdGMzhGRDQucG5n.png",
-    "title": "Švieži kiaulienos sprandinės pjausniai",
-    "price": "4.99",
-    "price_2": "800 g / 1 kg = 6,24 €",
-    "valid_date": "01 08 - 01 11"
+    "image_url": "https://imgproxy-retcat.assets.schwarz/35FhkK01s59uSjL6cV9ep9_MtSbYQdkuA_RCrJJ0V6A/sm:1/w:427/h:320/cz/M6Ly9wcm9kLWNhd/GFsb2ctbWVkaWEvaW50L0FCN0IwMzE3NTQ4Q0Y3NkEyMDU5N0UyME/M4RjlGRDZDMkFBMURCMjU1N0IwREVGODIwMEY5RjNEMUYxMTI5MkEucG5n.png",
+    "title": "Šviežios vištienos sparnelių vidurinės dalys",
+    "price": "1.95",
+    "price_2": "550 g | 1 kg = 3,55 €",
+    "valid_date": "01 26 - 01 28"
   },
   {
-    "image_url": "https://imgproxy-retcat.assets.schwarz/ZIcueEhhlzMEaF-9e1alORACWnBaR760wgwLm1lNukw/sm:1/w:427/h:320/cz/M6Ly9wcm9kLWNhd/GFsb2ctbWVkaWEvbHQvMS9BOTdBM0I5MUM0MEJFMkRBMThCN0RFNjE/3MkRGRDBCODYyQUNBNzhFQTY4QjY2REI0RTMzMUYxNjc4OUZFODY1LnBuZw.png",
-    "title": "Šviežios viščiukų broilerių blauzdelės",
-    "price": "1.79",
-    "price_2": "500 g / 1 kg = 3,58 €",
-    "valid_date": "01 08 - 01 11"
+    "image_url": "https://imgproxy-retcat.assets.schwarz/0NIDDE8M0pY8NNMqCGuJow8Ukk5hATZk_Ge3zx1pY7Y/sm:1/w:427/h:320/cz/M6Ly9wcm9kLWNhd/GFsb2ctbWVkaWEvbHQvMS9ERjgxQzgwOEMzNjVFRjExNjY2QjZDQzR/FNDVEMDk2RDVGNEQ2NjJCMTVDNzY1MDhFNTYyQ0I1NTY1NEZGQUM1LnBuZw.png",
+    "title": "Šviežia kiaulienos šoninė be kaulo",
+    "price": "3.99",
+    "price_2": "1 kg",
+    "valid_date": "01 26 - 01 28"
   },
   {
-    "image_url": "https://imgproxy-retcat.assets.schwarz/EBhTGKF6iRTTs3A7gKASwFkLX7QEzTnZ3Rhq4gYasC8/sm:1/w:427/h:320/cz/M6Ly9wcm9kLWNhd/GFsb2ctbWVkaWEvbHQvMS9EOTFDMUVGMjBDRkIwRDdEMTMzRjdCMjF/CRjc3ODkwMUMzMzFFRUNERTM1MzJCOUVDODI2OTAyOTI2RjIzRUE2LnBuZw.png",
-    "title": "Švieži vokiški jautienos šonkauliai",
+    "image_url": "https://imgproxy-retcat.assets.schwarz/wvC0YywwDmpuQ82K806DsJ0lulCcFLf-UAOmaIGiSWM/sm:1/w:427/h:320/cz/M6Ly9wcm9kLWNhd/GFsb2ctbWVkaWEvaW50LzVGQ0FBMkQ0NzE2QjhGNERFMzhFNkE2NT/I5MjI5NTlCQTBENzdFRTk5MDZCOEI5QTI2MUQzRDcwOUVDRUREMzcucG5n.png",
+    "title": "Šviežios kiaulienos dešrelės",
+    "price": "2.29",
+    "price_2": "440 g / 1 kg = 5,21 €",
+    "valid_date": "01 29 - 02 01"
+  },
+  {
+    "image_url": "https://imgproxy-retcat.assets.schwarz/Anwn_HmMiZEWlLfWpvxvS00c_F984ML-J2MkYEAakFo/sm:1/w:427/h:320/cz/M6Ly9wcm9kLWNhd/GFsb2ctbWVkaWEvaW50L0YzRUY5MTVDMDcyNDE0MkY0MjhDOUNBMU/MzMTUwMjk5NjUyODEzNjdFOUExRDc1MDA3QTg0MTg2RDE1QTJDN0EucG5n.png",
+    "title": "Šviežios ančiukų kulšelės be antibiotikų",
     "price": "8.99",
     "price_2": "1 kg",
-    "valid_date": "01 08 - 01 11"
+    "valid_date": "01 29 - 02 01"
   },
   {
-    "image_url": "https://imgproxy-retcat.assets.schwarz/fo1eReSPgXTX7qjZ9hN_K5iZxpTF7q-5LTSLSawtGqk/sm:1/w:427/h:320/cz/M6Ly9wcm9kLWNhd/GFsb2ctbWVkaWEvaW50LzhDRjk4Mjg2NjE1OUZENUY2QkQ0QjlEOT/c3NjEyRDJENEEzQzRFQTU0QjE0Rjg4NjFCRTRGNEU1ODlCMUU2RUIucG5n.png",
-    "title": "Šviežia smulkinta kiauliena ir jautiena",
-    "price": "3.59",
-    "price_2": "750 g / 1 kg = 4,79 €",
-    "valid_date": "01 08 - 01 11"
-  },
-  {
-    "image_url": "https://imgproxy-retcat.assets.schwarz/Cib78bA5ozHadzqi61WGC3IiHsQ4AM8tcKsxhhdIkkg/sm:1/w:427/h:320/cz/M6Ly9wcm9kLWNhd/GFsb2ctbWVkaWEvbHQvMS80RkFGM0E4ODk0RkM3OEFCMEZCMTNDMEN/CQ0MzMkQwNUNGMUEwQjkyNjNGNzRENzhENzA3MTU3MUYxRUZGN0I4LnBuZw.png",
-    "title": "Nevirtos krevetės",
-    "price": "2.99",
-    "price_2": "350 g / 1 kg = 8,54 €",
-    "valid_date": "01 08 - 01 11"
-  },
-  {
-    "image_url": "https://imgproxy-retcat.assets.schwarz/D4W6Su_oBXXNjHrz1213vWAPCb_mmLQ4fOTh3RY2F4s/sm:1/w:427/h:320/cz/M6Ly9wcm9kLWNhd/GFsb2ctbWVkaWEvaW50L0E4RUZBRTc4MjlBRDI5RDM5NzNDRTBCQT/lFQkQzQkZGMUI4RTJGMTFDQkVDQjFBOUVFOEY3OTc1NUNENUMxMjYucG5n.png",
-    "title": "Šviežios stintos",
-    "price": "2.39",
-    "price_2": "300 g / 1 kg = 7,97 €",
-    "valid_date": "01 08 - 01 11"
-  },
-  {
-    "image_url": "https://imgproxy-retcat.assets.schwarz/drKbzL_3owUElUakz2gDT1q1Ni0sxjd3QpGviUF_9xg/sm:1/w:427/h:320/cz/M6Ly9wcm9kLWNhd/GFsb2ctbWVkaWEvaW50LzcwNDhFMkEzNjcwMDcyMkExMkUzMEY3Q0/ZGMUU1QzNENTUxRTIxN0JEMUU3NDJFQjExNDYzRjNFQTA3NjE5NUIucG5n.png",
-    "title": "Šamo filė su česnakais ir žolelėmis",
-    "price": "4.79",
-    "price_2": "250 g / 1 kg = 19,16 €",
-    "valid_date": "01 08 - 01 11"
-  },
-  {
-    "image_url": "https://imgproxy-retcat.assets.schwarz/7Cq6uFa95xkWl_p3bsd6wSmgL8rBEi3pl6_nczNJ70Y/sm:1/w:427/h:320/cz/M6Ly9wcm9kLWNhd/GFsb2ctbWVkaWEvaW50LzZDQTRGREZGRTUwNkQ0RERCRkVGNUEwNT/U4RkQ5RTkwNjNGMzQzNUI5QTA0MzFCQ0I2NTEzNTJFRjhFRUMzRTkucG5n.png",
-    "title": "Sušių rinkinys Maki",
+    "image_url": "https://imgproxy-retcat.assets.schwarz/5QWRiuDauLSUBwZbIsL2rVrnNIZ4M-UM1V1iKFrZ7SY/sm:1/w:427/h:320/cz/M6Ly9wcm9kLWNhd/GFsb2ctbWVkaWEvbHQvMS9EMzUxN0NBODU5QjU1Rjc4NDkxRDhGOUM/zMkYxRDMwREIxNDRCRDlGMDVEQzUzREU0NDIyRUFFMzU5NjY5OTkwLnBuZw.png",
+    "title": "Šviežia kiaulienos išpjova",
     "price": "5.99",
-    "price_2": "420 g / 1 kg = 14,26 €",
-    "valid_date": "01 08 - 01 11"
+    "price_2": "1 kg",
+    "valid_date": "01 29 - 02 01"
+  },
+  {
+    "image_url": "https://imgproxy-retcat.assets.schwarz/1TzNu5ixpEc8FO79vCU4SIt8GH66dvoLNm7Y09_pnmM/sm:1/w:427/h:320/cz/M6Ly9wcm9kLWNhd/GFsb2ctbWVkaWEvbHQvMS8wQ0NBMUNFNURCNjNDMzgyNDU5RjhGNDY/2QkI3Nzg0MUI2Mjg5NjJFRTFFM0Q0MDM1OEY1NEMwRUMyMTA1NDk5LnBuZw.png",
+    "title": "Šviežia smulkinta kalakutiena",
+    "price": "2.59",
+    "price_2": "500 g / 1 kg = 5,18 €",
+    "valid_date": "01 29 - 02 01"
+  },
+  {
+    "image_url": "https://imgproxy-retcat.assets.schwarz/8Vfgd95EexsUU-2b7r5Qcq0MEVXi-zazdKdAvphdp1U/sm:1/w:427/h:320/cz/M6Ly9wcm9kLWNhd/GFsb2ctbWVkaWEvbHQvMS85NzE2ODJEODEzMDQxQzNERjUwMTZCMTd/GQzQyQTg3MTM3NEE5RjcyRjdGNzAxNjE2RTI4NUVBOEJEQURFMzg0LnBuZw.png",
+    "title": "Šviežia kiaulienos karka su kaulu",
+    "price": "1.99",
+    "price_2": "1 kg",
+    "valid_date": "01 29 - 02 01"
+  },
+  {
+    "image_url": "https://imgproxy-retcat.assets.schwarz/VmOQlx6lSnknZS_zejRF5eXZHIKmyE4iqKgS57LxGfY/sm:1/w:427/h:320/cz/M6Ly9wcm9kLWNhd/GFsb2ctbWVkaWEvbHQvMS9CNjZFNjg0OTlFN0I3QzIwMkM4NjdEMTk/5ODM2MjNGQUFCQkY1Q0E1Nzg0MTg3NDVENjMyNzNEQTAzNEU0MTNCLnBuZw.png",
+    "title": "Švieži viščiukų krūtinėlės kepsniai",
+    "price": "3.19",
+    "price_2": "400 g | 1 kg = 7,98 €",
+    "valid_date": "01 29 - 02 01"
+  },
+  {
+    "image_url": "https://imgproxy-retcat.assets.schwarz/Dnuqh2szv83_AJP6EKk9OrvPv6vk3mzfv8wE03eZ2rI/sm:1/w:427/h:320/cz/M6Ly9wcm9kLWNhd/GFsb2ctbWVkaWEvbHQvMS80REExNTA1QUU2NDY5NjFCNzExNTYzMzM/yODQ5MEFGMUE4Q0VDOUZBOTVENjBEQUUxREZGNzU1NkY3RjUwOTczLnBuZw.png",
+    "title": "Atlantinės lašišos filė",
+    "price": "11.99",
+    "price_2": "1 kg",
+    "valid_date": "01 29 - 02 01"
+  },
+  {
+    "image_url": "https://imgproxy-retcat.assets.schwarz/vO021TWDxzr0ndR2eWLCZQA2c83cC2vjV9U6ec5p-pw/sm:1/w:427/h:320/cz/M6Ly9wcm9kLWNhd/GFsb2ctbWVkaWEvbHQvMS84QTg0QUY2Mzk2NTg5RTJFMjBEN0Q5NEM/0OTM1MjIwNDZFRTdCNEYwMzcxRkFFQjY3OEEyMTFBRTJCRTA5NEEwLnBuZw.png",
+    "title": "Sušiai „Tortilija“",
+    "price": "3.59",
+    "price_2": "210 g / 1 kg = 17,10 €",
+    "valid_date": "01 29 - 02 01"
+  },
+  {
+    "image_url": "https://imgproxy-retcat.assets.schwarz/6FIt-JDSxjrY2vphJfy5uIigY7-DGGpvGxYIn6nSaow/sm:1/w:427/h:320/cz/M6Ly9wcm9kLWNhd/GFsb2ctbWVkaWEvbHQvMS9EMUU0Rjg3QjVGQkM1RURBNUYwM0E4NzQ/4RDE1N0UzMzVGQzc1Mjk2NDRGQkUxRERENEM4RkJDOTUzOUExQTZFLnBuZw.png",
+    "title": "Menkė",
+    "price": "6.99",
+    "price_2": "1 kg",
+    "valid_date": "01 29 - 02 01"
+  },
+  {
+    "image_url": "https://imgproxy-retcat.assets.schwarz/3u15baWuF7A4xpq16yTZucSgUHJ0R2_wIc4qiLV7jfk/sm:1/w:427/h:320/cz/M6Ly9wcm9kLWNhd/GFsb2ctbWVkaWEvaW50L0QyNjVBRjNGNjVEREEzNzU0MTU3NDA2RT/g5OTFGNzQ0RjQzRUM5NzBGQkI4OTUxRDVGOERCREVEODJFQUQ4NkEucG5n.png",
+    "title": "Šamas",
+    "price": "5.49",
+    "price_2": "1 kg",
+    "valid_date": "01 29 - 02 01"
   }
 ]
